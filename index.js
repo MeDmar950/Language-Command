@@ -5,7 +5,7 @@ const prefix = '$';
 const LanguageModel = require('./models/lang');
 client.on('ready', async() => {
     console.log('Online');
-    mongoose.connect("mongodb+srv://work:work123@cluster0.e0df5.mongodb.net/work?retryWrites=true&w=majority", {
+    mongoose.connect("MongoDB_URL", {
         useNewUrlParser: true,
         useUnifiedTopology: true,
         useFindAndModify: false
@@ -76,4 +76,4 @@ client.on('message', async(message) => {
         }
     }
 });
-client.login('NzYwNTI1MzI4NDUwOTc3Nzky.X3NUaA.KLn445jULoqzGDnIUsu5GwfVsL8');
+client.login('TOKEN_BOTTTTTTTTTTTTT');
