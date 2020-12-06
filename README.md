@@ -9,7 +9,7 @@ Basic Language Changer Command
 * $test For Show Langauge
 
 ##  This Code For show language in server:
-```
+```js
 client.on('message', async(message) => {
     if(message.author.bot) return;
     if(message.content.startsWith(prefix + 'test')) {
@@ -23,7 +23,7 @@ client.on('message', async(message) => {
 });
 ```
 ##  now your answer how make Ex Help Command: 
-```
+```js
 client.on('message', async(message) => {
     if(message.author.bot) return;
     if(message.content.startsWith(prefix + 'help')) {
