@@ -2,7 +2,7 @@
 Basic Language Changer Command
 
 # Preview :
-[![Language](https://prnt.sc/vx1x4j)](https://github.com/MeDmar950/Language-Command)
+[![Language](https://cdn.discordapp.com/attachments/784407645489594418/785253824238714900/unknown.png)](https://github.com/MeDmar950/Language-Command)
 
 # Usage :
 * $setlang `<en/ar>`
